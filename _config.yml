@@ -16,7 +16,7 @@
 title: How to use Figma
 description: Jekyll themes for instructions on how to create a basic figma prototype with collaborators
 baseurl: "/how-to-use-figma" # the subpath of your site, e.g. /blog
-url: "https://www.karel.digital/how-to-use-figma/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.karel.digital/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
