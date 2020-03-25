@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Troubleshooting
 nav_order: 15
 ---
 
